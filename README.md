@@ -1,7 +1,6 @@
 ## Roadmap.sh -Solution
---
 **Frontend**
----
+
 1.Simple CV
 01-https://roadmap.sh/projects/single-page-cv
 
