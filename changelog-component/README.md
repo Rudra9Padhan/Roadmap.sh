@@ -1,6 +1,5 @@
 # Changelog Component
 
-![Changelog Component](Changelog%20Component.jpeg)
 
 ## Description
 
